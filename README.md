@@ -6,4 +6,4 @@ A small project of computer graphics Lab. A 3D car avoid obstetrical game in GLU
 <a href="https://imgflip.com/gif/2nt0uu"><img src="https://i.imgflip.com/2nt0uu.gif" title="made at imgflip.com"/></a>
 
 ## YouTube video Link:
-[![Car Racing Youtube video](https://github.com/Sakifneoworld/Car-3D-Game-in-GLUT-in-Compute-Graphics-project-/blob/master/CarYoutube.png)](https://www.youtube.com/watch?v=xmvjs4ZpzsA&list=PLHd9cshv6jTVXpKo9Q0MFFWeKi-UQ5loJ)
+[![Car Racing Youtube video](https://github.com/Sakifneoworld/Car-3D-Game-in-GLUT-in-Compute-Graphics-project-/blob/master/CarYoutube.png)](https://www.youtube.com/watch?v=17XvK43p5w8&t=2s)
